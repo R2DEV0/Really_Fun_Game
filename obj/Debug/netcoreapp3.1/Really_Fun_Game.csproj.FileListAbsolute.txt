@@ -1,0 +1,13 @@
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\bin\Debug\netcoreapp3.1\Really_Fun_Game.exe
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\bin\Debug\netcoreapp3.1\Really_Fun_Game.deps.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\bin\Debug\netcoreapp3.1\Really_Fun_Game.runtimeconfig.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\bin\Debug\netcoreapp3.1\Really_Fun_Game.runtimeconfig.dev.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\bin\Debug\netcoreapp3.1\Really_Fun_Game.dll
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\bin\Debug\netcoreapp3.1\Really_Fun_Game.pdb
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\obj\Debug\netcoreapp3.1\Really_Fun_Game.csprojAssemblyReference.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\obj\Debug\netcoreapp3.1\Really_Fun_Game.csproj.CoreCompileInputs.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\obj\Debug\netcoreapp3.1\Really_Fun_Game.AssemblyInfoInputs.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\obj\Debug\netcoreapp3.1\Really_Fun_Game.AssemblyInfo.cs
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\obj\Debug\netcoreapp3.1\Really_Fun_Game.dll
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\obj\Debug\netcoreapp3.1\Really_Fun_Game.pdb
+C:\Users\r2dev\Desktop\coding_dojo\C#\Deck_of_Cards\Really_Fun_Game\obj\Debug\netcoreapp3.1\Really_Fun_Game.genruntimeconfig.cache
